@@ -41,5 +41,6 @@
         <t>абстрактный</t>
       </tg></mg></mgb></e>
 <e><lg><l pos="A">возаш</l><stg><st>воза•ш</st></stg><stress>воза•ш</stress></lg> <mgb><mg> <tg xml:lang="rus"> <t>достаточный на один воз</t> <t>для одного воза <com type="comment">возлан ситыше</com></t> </tg> <xg type="mwe"> <x>Купышто ик возаш шудым ямдылышна.</x> <xt xml:lang="rus">В болоте мы заготовили сено на один воз.</xt> </xg><semRel type="compare_to">возлык</semRel></mg></mgb></e>
+<e><lg><l pos="A">ияш</l><stg><st>ия•ш</st></stg><stress>ия•ш</stress></lg> <mgb><mg><tg xml:lang="rus"> <t>годовой</t> <t>годичный</t> <t>годовалый</t> </tg> <xg type="mwe"> <x>Ияш йоча</x> <xt xml:lang="rus">годовалый ребёнок</xt> </xg> <xg type="mwe"> <x>ияш план</x> <xt xml:lang="rus">годовой план</xt> </xg> <xg type="mwe"> <x>ияш жап</x> <xt xml:lang="rus">годичный срок</xt> </xg> <xg type="mwe"> <x>ияш курс</x> <xt xml:lang="rus">годичный курс.</xt> </xg><semRel type="see_also">идалыкаш</semRel><semRel type="see_also">талукаш</semRel></mg></mgb></e>
 
 </r>
