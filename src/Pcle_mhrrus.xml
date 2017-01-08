@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r id="mhrrus" xml:lang="mhr">
+<e><lg><l pos="Pcle">а</l><stg><st>а</st></stg><stress>а</stress></lg>
+<mgb><mg><pos>част.</pos><tg type="head" xml:lang="rus"><t descript="выражает вопрос; передаётся"><posType>вопр.част.</posType> а</t>
+      </tg>
+      <xg type="sentence">
+        <x>Тый таче тышеч кает уке, а?</x>
+        <xt xml:lang="rus">Уйдёшь ты сегодня или нет, а?</xt>
+      </xg>
+      <xg type="sentence">
+        <x>– Куш коштыч? – А?</x>
+        <xt xml:lang="rus">– Куда ходил? – А?</xt>
+      </xg></mg></mgb></e>
+
+</r>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r id="mhrrus" xml:lang="mhr">
+<e><lg><l pos="CC">а</l><stg><st>а</st></stg><stress>а</stress></lg>
+  <mgb><mg><pos>союз</pos><tg type="head" xml:lang="rus"><t>а <com type="abbrAux">соотв.</com>:</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="rus">
+        <t><posType>противит.</posType> <pos>союзу</pos> а</t>
+      </tg>
+      <xg type="quote">
+        <x src="О. Ипай.">Чевер кечат тура онча мемнам, а тый илет шкетын.</x>
+        <xt xml:lang="rus">И красное солнышко прямо смотрит на нас, а ты живёшь один.</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="rus">
+        <t><posType>присоед.</posType> <pos>союзу</pos> а</t>
+      </tg>
+      <xg type="quote">
+        <x src="А. Эрыкан.">Адакшым Иванын кугу илыш опытшо уло, тудо калыкым ӱшандарен мошта, а тыгай еҥым колышташ утларак тӱҥалыт.</x>
+        <xt xml:lang="rus">Опять же у Ивана большой жизненный опыт, он умеет убеждать народ, а такого человека будут больше слушаться.</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="rus">
+        <t descript="употребляется в начале предложения для усиления выразительности"></t>
+      </tg>
+      <xg type="quote">
+        <x src="М. Казаков.">А теве покшелне коеш курыкат.</x>
+        <xt xml:lang="rus">А вот и гора виднеется в середине.</xt>
+      </xg>
+      <xg type="quote">
+        <x src="Й. Ялмарий.">А баян кушто?</x>
+        <xt xml:lang="rus">А где баян?</xt>
+      </xg>
+    </mg></mgb></e>
+
+</r>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<r id="mhrrus" xml:lang="mhr">
+<e><lg><l pos="A">абажуран</l><stg><st>абажура•н</st></stg><stress>абажура•н</stress></lg>
+  <mgb><mg>
+      <tg xml:lang="rus">
+        <t>с абажуром</t>
+      </tg>
+      <xg type="mwe">
+        <x>Абажуран лампе</x>
+        <xt xml:lang="rus">лампа с абажуром.</xt>
+      </xg>
+      <xg type="quote">
+        <x src="А. Ягельдин.">Кӱкшӧ меҥге вуйышто ош абажуран лампычке-влак кечат.</x>
+        <xt xml:lang="rus">На высоких столбах висят лампочки с круглыми белыми абажурами.</xt>
+      </xg></mg></mgb></e>
+<e><lg><l pos="A">абрикостӱслӧ</l><stg><st>абрикостӱ•слӧ</st></stg><stress>абрикостӱ•слӧ</stress></lg>
+  <mgb><mg>
+      <tg xml:lang="rus">
+        <t>абрикосовый</t>
+      </tg></mg></mgb></e>
+<e><lg><l pos="A">абсолют</l><stg><st>абсолю•т</st></stg><stress>абсолю•т</stress></lg>
+  <mgb><mg>
+      <tg xml:lang="rus">
+        <t>абсолютный <com type="comment">иктаж-мом весе дене таҥастарыде налме; иктаж-мон тӱрыс, тичмаш улмыжо, эн чот палдырнымыже</com></t>
+      </tg>
+      <xg>
+	<x>абсолют ноль</x><xt>абсолютный нуль <com type="comment">эн изи температур – 273</com></xt>
+      </xg>
+      <xg>
+      <x>абсолют чемпион</x><xt>абсолютный чемпион <com type="comment">спортын иктаж-могай видше дене эн шуко очком погышо спортсмен</com></xt></xg>
+<xg><x>абсолют монархий</x><xt>абсолютная монархия <com type="comment">кугыжан кучемже</com></xt></xg>
+<xg><x>абсолют синоним</x><tx>абсолютный синоним <com type="comment">йӧршеш икгай значениян мут-влак</com></tx></xg>
+      <xg type="quote">
+        <x src="«Географий»">Океан кӱкшыт гыч чарката марте висыме кӱкшытым абсолют кӱкшыт маныт.</x>
+        <xt xml:lang="rus">Точку от уровня океана до вершины называют абсолютной величиной.</xt>
+      </xg></mg></mgb></e>
+<e><lg><l pos="A">абстракт</l><stg><st>абстра•кт</st></stg><stress>абстра•кт</stress></lg>
+  <mgb><mg>
+      <tg xml:lang="rus">
+        <t>абстрактный</t>
+      </tg></mg></mgb></e>
+<e><lg><l pos="A">возаш</l><stg><st>воза•ш</st></stg><stress>воза•ш</stress></lg> <mgb><mg> <tg xml:lang="rus"> <t>достаточный на один воз</t> <t>для одного воза <com type="comment">возлан ситыше</com></t> </tg> <xg type="mwe"> <x>Купышто ик возаш шудым ямдылышна.</x> <xt xml:lang="rus">В болоте мы заготовили сено на один воз.</xt> </xg><semRel type="compare_to">возлык</semRel></mg></mgb></e>
+
+</r>
