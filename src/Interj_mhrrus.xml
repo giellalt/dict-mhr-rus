@@ -2,25 +2,25 @@
 
 <r id="mhrrus" xml:lang="mhr">
 <e><lg><l pos="Interj">а-а</l><stg><st>а-а</st></stg><stress>а-а</stress></lg>
-  <mgb><mg><pos>межд.</pos>
+  <mg><pos>межд.</pos>
       <tg xml:lang="rus">
         <t>а-а <com type="abbrAux">употр.</com> [i]для выражения различных чувств[/i]</t>
       </tg>
       <xg type="quote">
         <x src="Э. Чапай.">– А-а, лӱдынат? – Насим наганым шуен, Эсламын оҥышкыжак пудештарыш.</x>
         <xt xml:lang="rus">– А-а, испугался? – Насим, направив наган прямо в грудь Эслама, выстрелил.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="Interj">аваже</l><stg><st>аваже•</st></stg><stress>аваже•</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>мать <com type="comment">приветливое обращение мужа к жене</com></t>
       </tg>
       <xg type="quote">
         <x src="А. Юзыкайн.">– Аваже, ынде мом ыштена? – орлыкан пӧръеҥын кӧргыж гыч ишалт лекте.</x>
         <xt xml:lang="rus">– Мать, что теперь будем делать? – вырвалось из груди бедного мужчины.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="Interj">авай</l><stg><st>ава•й</st></stg><stress>ава•й</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>мама; обращение детей к матери</t>
+  <mg><tg type="head" xml:lang="rus"><t>мама; обращение детей к матери</t>
         <t>невестки к свекрови</t>
         <t>зятя к тёще</t>
       </tg>
@@ -28,12 +28,12 @@
         <x src="М. Казаков.">Уке, авай, тый от шоҥгем.</x>
         <xt xml:lang="rus">Нет, мама, ты не стареешь.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>мама (моя)</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>мама (моя)</t>
       </tg>
       <xg type="quote">
         <x src="О. Тыныш.">Авай пӧртыш пурыш, а тудо кудывечыштак шога, мыйым онча.</x>
         <xt xml:lang="rus">Моя мама зашла в дом, а он стоит во дворе, смотрит на меня.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 
 </r>

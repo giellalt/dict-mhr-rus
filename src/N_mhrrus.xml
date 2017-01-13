@@ -2,7 +2,7 @@
 
 <r id="mhrrus" xml:lang="mhr">
 <e><lg><l pos="N">абажур</l><stg><st>абажу•р</st></stg><stress>абажу•р</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>абажур <com type="comment">лампе салма, лампе ӱмбалан сакыме авыртыш</com></t>
       </tg>
@@ -17,19 +17,19 @@
       <xg type="quote">
         <x src="А. Эрыкан.">Лампе ӱмбалне вудака абажур электричестве волгыдылан пӧлем мучко шарлашыже эрыкым ок пу.</x>
         <xt xml:lang="rus">Тусклый абажур над лампой не даёт распространиться свету по всей комнате.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">аббреваций</l><stg><st>аббрева•ций</st></stg><stress>аббрева•ций</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>аббревиация</t>
-      </tg></mg></mgb></e>
+      </tg></mg></e>
 <e><lg><l pos="N">аббревиатур</l><stg><st>аббревиату•р</st></stg><stress>аббревиату•р</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>аббревиатура</t>
-      </tg></mg></mgb></e>
+      </tg></mg></e>
 <e><lg><l pos="N">абзац</l><stg><st>абза•ц</st></stg><stress>абза•ц</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>абзац <com type="comment">у корно гыч верым коден тӱҥалмаш</com></t>
+  <mg><tg type="head" xml:lang="rus"><t>абзац <com type="comment">у корно гыч верым коден тӱҥалмаш</com></t>
       </tg>
       <xg type="mwe">
         <x>у абзац</x>
@@ -43,24 +43,24 @@
         <x>Умбакыжым ынде абзац гыч возаш тӱҥал.</x>
         <xt xml:lang="rus">Дальше начинай писать с абзаца.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>абзац <com type="comment">кок абзац кокласе текст</com></t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>абзац <com type="comment">кок абзац кокласе текст</com></t>
       </tg>
       <xg type="sentence">
         <x>Кум абзацым лудаш.</x>
         <xt xml:lang="rus">Прочитать три абзаца.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">абитуриент</l><stg><st>абитурие•нт</st></stg><stress>абитурие•нт</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>абитуриент <com type="comment">вузыш тунемаш пурышо еҥ</com></t>
       </tg>
       <xg type="sentence">
         <x>Абитуриент-влак университет пеленысе садикыш погыненыт.</x>
         <xt xml:lang="rus">Абитуриенты собрались в скверике возле университета.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">абонемент</l><stg><st>абонеме•нт</st></stg><stress>абонеме•нт</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>абонемент <com type="comment">иктаж-мо дене пайдаланаш правам пуышо документ</com></t>
+  <mg><tg type="head" xml:lang="rus"><t>абонемент <com type="comment">иктаж-мо дене пайдаланаш правам пуышо документ</com></t>
       </tg>
       <xg type="mwe">
         <x>Театрыш абонемент</x>
@@ -74,24 +74,24 @@
         <x>Диете кочмыверыште кочкаш абонементем уло.</x>
         <xt xml:lang="rus">У меня есть абонемент для питания в диетической столовой.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>абонемент <com type="comment">библиотекыште книгам мӧҥгыш пуымо пӧлка</com></t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>абонемент <com type="comment">библиотекыште книгам мӧҥгыш пуымо пӧлка</com></t>
       </tg>
       <xg type="quote">
         <x src="«Мар. ком.»">У библиотекыште лудшо-влакым обслуживатлыше абонемент да лудмо зал уло.</x>
         <xt xml:lang="rus">В новой библиотеке есть абонемент, обслуживающий читателей, и читальный зал.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">абонент</l><stg><st>абоне•нт</st></stg><stress>абоне•нт</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>абонент <com type="comment">абонемент дене пайдаланыше еҥ</com></t>
       </tg>
       <xg type="quote">
         <x src="«Мар. ком.»">Ты ялысе библиотекын абонентше ятырлан шукемын.</x>
         <xt xml:lang="rus">Абоненты этой сельской библиотеки значительно увеличились.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">аборт</l><stg><st>або•рт</st></stg><stress>або•рт</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>аборт <com type="comment">азам кудалтымаш</com></t>
       </tg>
@@ -102,18 +102,18 @@
       <xg type="quote">
         <x src="С. Чавайн.">Сурт кучышо ӱдырамашыже Сидыр попын кызыт Озаҥышке аборт ыштыкташ каен.</x>
         <xt xml:lang="rus">Экономка попа Сидыра уехала в Казань на аборт.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">абрикос</l><stg><st>абрико•с</st></stg><stress>абрико•с</stress></lg>
-  <mgb><mg><com type="field">бот.</com>
+  <mg><com type="field">бот.</com>
       <tg xml:lang="rus">
         <t>абрикос <com type="comment">кечывалвелне кушшо сливе шотан пушеҥге да тудын саскаже</com></t>
       </tg>
       <xg type="sentence">
         <x>Вася ӱстел ӱмбаке абрикосым пыштыш.</x>
         <xt xml:lang="rus">Вася положил на стол абрикос.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">абстракций</l><stg><st>абстра•кций</st></stg><stress>абстра•кций</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>абстракция <com type="comment">иктаж-могай предметын эн тӱҥжым ойырен ончыкташ манын, тудын тӱрлӧ ойыртемлажым шотыш налде кодымаш</com></t>
       </tg>
@@ -124,9 +124,9 @@
       <xg type="sentence">
         <x>Абстракцийлан кӧра шанче шочын.</x>
         <xt xml:lang="rus">С помощью абстракции возникла наука.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">ава</l><stg><st>ава•</st></stg><stress>ава•</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>мать</t>
+  <mg><tg type="head" xml:lang="rus"><t>мать</t>
       </tg>
       <xg type="mwe">
         <x>Шуко йочан ава</x>
@@ -136,8 +136,8 @@
         <x src="М. Шкетан.">Пӧтыр изинекак аважым пагален илен.</x>
         <xt xml:lang="rus">Пётр с детства уважал свою мать.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><com type="synt">в поз.опр.</com><tg type="head" xml:lang="rus"><t>материнский</t>
+    </mg>
+<mg><com type="synt">в поз.опр.</com><tg type="head" xml:lang="rus"><t>материнский</t>
       </tg>
       <xg type="mwe">
         <x>Ава шӱм</x>
@@ -147,8 +147,8 @@
         <x>ава кумыл</x>
         <xt xml:lang="rus">материнская душа, душа матери.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>самка</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>самка</t>
         <t>матка</t>
       </tg>
       <xg type="mwe">
@@ -183,8 +183,8 @@
         <x src="М.-Азмекей.">Кӱдыр ден мызе-влакым, тӱжвач ончен, кудыжо узо але ава, кенеташте палашат ок лий.</x>
         <xt xml:lang="rus">Тетеревов и рябчиков трудно сразу определить по внешнему виду, кто из них самец или самка.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>матерь</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>матерь</t>
         <t>основа</t>
         <t>кормилица</t>
       </tg>
@@ -196,8 +196,8 @@
         <x src="Калыкмут.">Чодыра – вӱд ава.</x>
         <xt xml:lang="rus">Лес – матерь влаги.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>основной</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>основной</t>
         <t>коренной</t>
         <t>дающее начало <argg>кому-чему-либо</argg></t>
       </tg>
@@ -209,8 +209,8 @@
         <x>ава пареҥге</x>
         <xt xml:lang="rus">картошка-матка.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><com type="field">миф.</com><tg type="head" xml:lang="rus"><t descript="выражает женское начало"></t>
+    </mg>
+<mg><com type="field">миф.</com><tg type="head" xml:lang="rus"><t descript="выражает женское начало"></t>
       </tg>
       <xg type="mwe">
         <x>Вӱд ава</x>
@@ -240,54 +240,54 @@
         <x>шочын ава</x>
         <xt xml:lang="rus">мать-богородица.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>тёща</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>тёща</t>
         <t>мать жены</t>
       </tg>
       <xg type="quote">
         <x src="«Мар. ком.»">Поро кумылан веҥыже таче аважым автобусыш шумеш ужатен колтыш.</x>
         <xt xml:lang="rus">Добродушный зять проводил сегодня свою тёщу до самого автобуса.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>свекровь</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>свекровь</t>
         <t>мать мужа</t>
-      </tg> <semRel type="compare_to">авалийше</semRel></mg></mgb></e>
+      </tg> <semRel type="compare_to">авалийше</semRel></mg></e>
 <e><lg><l pos="N">ава-ача</l><stg><st>ава•-ача•</st></stg><stress>ава•-ача•</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>родители</t>
       </tg>
       <xg type="quote">
         <x src="Я. Ялкайн.">Изинек еҥ пашашке кает, тыге ава-ачам коден каяш юмак пӱрен дыр, мом ыштет.</x>
         <xt xml:lang="rus">С малолетства идёшь на работу, что поделаешь, видимо, суждено так оставлять родителей.</xt>
-      </xg> <semRel type="compare_to">ача-ава</semRel></mg></mgb></e>
+      </xg> <semRel type="compare_to">ача-ава</semRel></mg></e>
 <e><lg><l pos="N">ававел</l><stg><st>ававе•л</st></stg><stress>ававе•л</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>мачеха</t>
         <t>неродная мать</t>
-      </tg><semRel type="compare_to">извате ава</semRel></mg></mgb></e>
+      </tg><semRel type="compare_to">извате ава</semRel></mg></e>
 <e><lg><l pos="N">ававун</l><stg><st>ававу•н</st></stg><stress>ававу•н</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>оперение птенцов</t>
       </tg>
       <xg type="quote">
         <x src="М. Шкетан.">Кеҥежым лудигын ававун пурымо годым Эрэҥер купыш шуко пычалзе погына.</x>
         <xt xml:lang="rus">Летом, когда у утят начинает появляться оперение, в эренерское болото собирается много охотников.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авагалта</l><stg><st>авагалта•</st></stg><stress>авагалта•</stress></lg>
-  <mgb><mg><com type="field">пчел.</com>
+  <mg><com type="field">пчел.</com>
       <tg xml:lang="rus">
         <t>маточник</t>
-      </tg></mg></mgb></e>
+      </tg></mg></e>
 <e><lg><l pos="N">авагараш</l><stg><st>авагара•ш</st></stg><stress>авагара•ш</stress></lg>
-  <mgb><mg><com type="field">пчел.</com>
+  <mg><com type="field">пчел.</com>
       <tg xml:lang="rus">
         <t>маточные соты</t>
-      </tg></mg></mgb></e>
+      </tg></mg></e>
 <e><lg><l pos="N">авагашта</l><stg><st>авагашта•</st></stg><stress>авагашта•</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>матица</t>
         <t>потолочная балка</t>
@@ -295,92 +295,92 @@
       <xg type="quote">
         <x src="Д. Орай.">– Авагашталан тыгай шелше кашкам пышташ ок йӧрӧ. Вашталтыза, – манеш.</x>
         <xt xml:lang="rus">– Для матицы такое растрескавшееся бревно не годится. Смените, – говорит он.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авагудо</l><stg><st>авагу•до</st></stg><stress>авагу•до</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>родной дом невесты</t>
+  <mg><tg type="head" xml:lang="rus"><t>родной дом невесты</t>
       </tg>
       <xg type="quote">
         <x src="М. Шкетан.">– Вара черкешак венчайынет чай? – Авагудеш огыл, черкешак.</x>
         <xt xml:lang="rus">– Наверно, хочешь обвенчать в церкви? – Не в доме же невесты, в церкви.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t><com type="range">спец.</com> маточник</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t><com type="range">спец.</com> маточник</t>
       </tg>
       <xg type="sentence">
         <x>Омарташте петырыме авагудо уло гын, лишыл жапыште иге лекмым вучо.</x>
         <xt xml:lang="rus">Если в улье есть запечатанный маточник, в ближайшее время жди появления роя.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авагумдыр</l><stg><st>авагу•мдыр</st></stg><stress>авагу•мдыр</stress></lg>
-  <mgb><mg><com type="range">уст.</com>
+  <mg><com type="range">уст.</com>
       <tg xml:lang="rus">
         <t>дар жениха матери невесты</t>
       </tg>
       <xg type="sentence">
         <x>Кеч авагумдыр оксам луктеш.</x>
         <xt xml:lang="rus">Хоть заработает денег для подарка матери невесты.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авалийше</l><stg><st>авали•йше</st></stg><stress>авали•йше</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>свекровь</t>
+  <mg><tg type="head" xml:lang="rus"><t>свекровь</t>
       </tg>
       <xg type="quote">
         <x src="В. Косоротов.">Верушын оньыжо ден авалийшыже тыматле, лыжга улыт.</x>
         <xt xml:lang="rus">Свёкор и свекровь у Веруш добродушные, приветливые.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>тёща</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>тёща</t>
       </tg>
       <xg type="quote">
         <x src="В. Иванов.">Сергейын авалийшыжым ялыште чаҥга манын лӱмденыт.</x>
         <xt xml:lang="rus">Тёщу Сергея в деревне прозвали скрягой.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авалтымаш</l><stg><st>авалтыма•ш</st></stg><stress>авалтыма•ш</stress></lg>
-  <mgb><mg><compg drv="»N"><comp ord="E1">авалташ</comp><comp ord="E2"/></compg><tg type="head" xml:lang="rus"><t>объятие (пламенем)</t>
+  <mg><compg drv="»N"><comp ord="E1">авалташ</comp><comp ord="E2"/></compg><tg type="head" xml:lang="rus"><t>объятие (пламенем)</t>
       </tg>
       <xg type="mwe">
         <x>Тул авалтымаш деч кеч вес пӧртшым арален кодаш кӱлеш.</x>
         <xt xml:lang="rus">От объятия пламенем надо сохранить хотя бы другой дом.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>захватывание</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>захватывание</t>
         <t>захват</t>
       </tg>
       <xg type="mwe">
         <x>Еҥ мландым авалтымаш империализмын койышыжо.</x>
         <xt xml:lang="rus">Захват чужих земель – свойство империализма.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>подхватывание</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>подхватывание</t>
         <t>поддержание</t>
       </tg>
       <xg type="mwe">
         <x>Ударник-влакын тӱҥалтышыштым авалтымаш – мемнан тӱҥ задачына.</x>
         <xt xml:lang="rus">Поддержание инициативы ударников – наша главная задача.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авалтыш</l><stg><st>ава•лтыш</st></stg><stress>ава•лтыш</stress></lg>
-  <mgb><mg><tg type="head" xml:lang="rus"><t>обхват</t>
+  <mg><tg type="head" xml:lang="rus"><t>обхват</t>
       </tg>
       <xg type="mwe">
         <x>Тиде пушеҥгын кӱжгытшӧ кум авалтыш.</x>
         <xt xml:lang="rus">Толщина этого дерева три обхвата.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><tg type="head" xml:lang="rus"><t>поддержка</t>
+    </mg>
+<mg><tg type="head" xml:lang="rus"><t>поддержка</t>
       </tg>
       <xg type="quote">
         <x src="З. Ермакова.">Авалтыш кажным таратен пӧрдаш.</x>
         <xt xml:lang="rus">Поддержка настроила всех кружиться (в вальсе).</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авалык</l><stg><st>ава•лык</st></stg><stress>ава•лык</stress></lg>
-  <mgb><mg><com type="field">анат.</com>
+  <mg><com type="field">анат.</com>
       <tg xml:lang="rus">
         <t>матка</t>
       </tg>
       <xg type="mwe">
         <x>Аза эше авалыкыште кийымыж годымак аважым шижаш тӱҥалеш.</x>
         <xt xml:lang="rus">Ребёнок ещё в матке начинает чувствовать свою мать.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 <e><lg><l pos="N">авамланде</l><stg><st>авамла•нде</st></stg><stress>авамла•нде</stress></lg>
-  <mgb><mg><com type="field">книжн.</com><tg type="head" xml:lang="rus"><t>родина</t>
+  <mg><com type="field">книжн.</com><tg type="head" xml:lang="rus"><t>родина</t>
         <t>отчизна</t>
         <t>родная земля</t>
       </tg>
@@ -388,21 +388,21 @@
         <x src="Г. Гадиатов.">Шочын Юл вӱд воктене ик ешыште эрге, тудлан пӱтынь тӱня, авамланде пуэн кӱдыратле арвийым.</x>
         <xt xml:lang="rus">Родился на Волге в одной семье мальчик, вся вселенная, родная земля дали ему могучий и ясный ум.</xt>
       </xg>
-    </mg></mgb>
-<mgb><mg><com type="field">геол.</com><tg type="head" xml:lang="rus"><t>подпочва</t>
+    </mg>
+<mg><com type="field">геол.</com><tg type="head" xml:lang="rus"><t>подпочва</t>
         <t>грунт под почвой</t>
       </tg>
       <xg type="quote">
         <x src="В. Осипов-Ярча.">Авамландын оҥышто вӱд шолеш.</x>
         <xt xml:lang="rus">Бурлит под почвой вода.</xt>
-      </xg><semRel type="compare_to">аварок</semRel></mg></mgb></e>
+      </xg><semRel type="compare_to">аварок</semRel></mg></e>
 <e><lg><l pos="N">авамӱкш</l><stg><st>авамӱ•кш</st></stg><stress>авамӱ•кш</stress></lg>
-  <mgb><mg><com type="field">пчел.</com>
+  <mg><com type="field">пчел.</com>
       <tg xml:lang="rus">
         <t>пчеломатка</t>
-      </tg></mg></mgb></e>
+      </tg></mg></e>
 <e><lg><l pos="N">авангард</l><stg><st>аванга•рд</st></stg><stress>аванга•рд</stress></lg>
-  <mgb><mg>
+  <mg>
       <tg xml:lang="rus">
         <t>авангард <com type="comment">ончыл отряд</com></t>
       </tg>
@@ -413,6 +413,6 @@
       <xg type="quote">
         <x src="М. Казаков.">Икманаш, поэтын верже ончылно, авангардыште.</x>
         <xt xml:lang="rus">Одним словом, место поэта впереди, в авангарде.</xt>
-      </xg></mg></mgb></e>
+      </xg></mg></e>
 
 </r>

@@ -2,7 +2,7 @@
 
 <r id="mhrrus" xml:lang="mhr">
 <e><lg><l pos="CC">а</l><stg><st>а</st></stg><stress>а</stress></lg>
-  <mgb><mg><pos>союз</pos><tg type="head" xml:lang="rus"><t>а <com type="abbrAux">соотв.</com>:</t>
+  <mg><pos>союз</pos><tg type="head" xml:lang="rus"><t>а <com type="abbrAux">соотв.</com>:</t>
       </tg>
     </mg>
     <mg>
@@ -35,6 +35,6 @@
         <x src="Й. Ялмарий.">А баян кушто?</x>
         <xt xml:lang="rus">А где баян?</xt>
       </xg>
-    </mg></mgb></e>
+    </mg></e>
 
 </r>
