@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <r id="mhrrus" xml:lang="mhr">
+ <e>
+   <lg>
+     <l pos="N">Австралийыште илыше сумкан янлык</l>
+   </lg>
+   <mg> <com type="field">зоол.</com>
+     <tg xml:lang="rus">
+       <t pos="N">ехидна</t>
+     </tg>
+   </mg>
+</e>
 <e><lg><l pos="N">абстракт ыҥ</l></lg><mg>	
       <tg xml:lang="rus">
         <t>абстрактное значение</t>
