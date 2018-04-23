@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<r id="mhrrus" xml:lang="mhr">
- <e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+  <e>
    <lg>
      <l pos="N">Австралийыште илыше сумкан янлык</l>
    </lg>
@@ -11,46 +10,103 @@
      </tg>
    </mg>
 </e>
-<e><lg><l pos="N">абстракт ыҥ</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>абстрактное значение</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава йымал презе</l></lg><mg>	<tg type="head" xml:lang="rus"><t>телёнок-сосунок</t>
-      </tg>
-    </mg>
-<mg><tg type="head" xml:lang="rus"><t><com type="sense">перен.</com> сосунок; слабак, молодой</t>
-      </tg>
-      <xg type="sentence">
-        <x>Тый, ава йымал презе, эше мыйым туныктынет.</x>
-        <xt xml:lang="rus">Ты, сосунок, хочешь ещё меня учить.</xt>
-      </xg></mg></e>
-<e><lg><l pos="N">ава комбо</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>гусыня</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава кролик</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>крольчиха</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава лудо</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>утка-матка</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава маска</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>медведица</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава мераҥ</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>зайчиха</t>
-      </tg></mg></e>
-<e><lg><l pos="N">ава нолго</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>ильм женской особи</t>
-      </tg></mg></e>
-<e><lg><l pos="N">абстракт мут</l></lg><mg>	
-      <tg xml:lang="rus">
-        <t>абстрактное слово</t>
-      </tg></mg></e>
-
+  <e>
+   <lg>
+     <l pos="N">абстракт мут</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>абстрактное слово</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">абстракт ыҥ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>абстрактное значение</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава йымал презе</l>
+   </lg>
+   <mg>
+     <tg type="head" xml:lang="rus">
+       <t>телёнок-сосунок</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg type="head" xml:lang="rus">
+       <t><com type="sense">перен.</com> сосунок; слабак, молодой</t>
+     </tg>
+     <xg type="sentence">
+       <x>Тый, ава йымал презе, эше мыйым туныктынет.</x>
+       <xt xml:lang="rus">Ты, сосунок, хочешь ещё меня учить.</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава комбо</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>гусыня</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава кролик</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>крольчиха</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава лудо</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>утка-матка</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава маска</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>медведица</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава мераҥ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>зайчиха</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ава нолго</l>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>ильм женской особи</t>
+     </tg>
+   </mg>
+</e>
 </r>

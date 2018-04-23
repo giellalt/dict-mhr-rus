@@ -1,6 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<r id="mhrrus" xml:lang="mhr">
-<e><lg><l pos="CS">потомушто</l><stg><st>потому•што</st></stg><stress>потому•што</stress></lg><mg><com>союз указывает на причину, передаётся союзом</com> <tg xml:lang="rus"> <t>потому что</t> </tg> <xg type="quote"> <x src="М. Шкетан.">Ечым нальым, потомушто моло ечыштат резинке пижыктыме.</x> <xt xml:lang="rus">Лыжи я купил, потому что и на других лыжах тоже прикреплены резины.</xt> </xg> <xg type="quote"> <x src="Г. Ефруш.">Йогор кумым мый нигунам ом вурсо, потомушто тудо сай айдеме.</x> <xt xml:lang="rus">Кума Йогора я никогда не ругаю, потому что он хороший человек.</xt> </xg></mg></e>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+  <e>
+   <lg>
+     <l pos="CS">потомушто</l>
+     <stg>
+       <st>потому•што</st>
+     </stg><stress>потому•што</stress>
+   </lg>
+   <mg><com>союз указывает на причину, передаётся союзом</com>
+     <tg xml:lang="rus">
+       <t>потому что</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Ечым нальым, потомушто моло ечыштат резинке пижыктыме.</x>
+       <xt xml:lang="rus">Лыжи я купил, потому что и на других лыжах тоже прикреплены резины.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Г. Ефруш.">Йогор кумым мый нигунам ом вурсо, потомушто тудо сай айдеме.</x>
+       <xt xml:lang="rus">Кума Йогора я никогда не ругаю, потому что он хороший человек.</xt>
+     </xg>
+   </mg>
+</e>
 </r>

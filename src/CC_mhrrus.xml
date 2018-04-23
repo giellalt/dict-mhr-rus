@@ -1,45 +1,164 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<r id="mhrrus" xml:lang="mhr">
-<e><lg><l pos="CC">а</l><stg><st>а</st></stg><stress>а</stress></lg>
-  <mg><pos>союз</pos><tg type="head" xml:lang="rus"><t>а <com type="abbrAux">соотв.</com>:</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="rus">
-        <t><posType>противит.</posType> <pos>союзу</pos> а</t>
-      </tg>
-      <xg type="quote">
-        <x src="О. Ипай.">Чевер кечат тура онча мемнам, а тый илет шкетын.</x>
-        <xt xml:lang="rus">И красное солнышко прямо смотрит на нас, а ты живёшь один.</xt>
-      </xg>
-    </mg>
-    <mg>
-      <tg xml:lang="rus">
-        <t><posType>присоед.</posType> <pos>союзу</pos> а</t>
-      </tg>
-      <xg type="quote">
-        <x src="А. Эрыкан.">Адакшым Иванын кугу илыш опытшо уло, тудо калыкым ӱшандарен мошта, а тыгай еҥым колышташ утларак тӱҥалыт.</x>
-        <xt xml:lang="rus">Опять же у Ивана большой жизненный опыт, он умеет убеждать народ, а такого человека будут больше слушаться.</xt>
-      </xg>
-    </mg>
-    <mg>
-      <tg xml:lang="rus">
-        <t descript="употребляется в начале предложения для усиления выразительности"></t>
-      </tg>
-      <xg type="quote">
-        <x src="М. Казаков.">А теве покшелне коеш курыкат.</x>
-        <xt xml:lang="rus">А вот и гора виднеется в середине.</xt>
-      </xg>
-      <xg type="quote">
-        <x src="Й. Ялмарий.">А баян кушто?</x>
-        <xt xml:lang="rus">А где баян?</xt>
-      </xg>
-    </mg></e>
-<e><lg><l pos="CC">ато</l><stg><st>ато•</st></stg><stress>ато•</stress></lg><mg><com>союз причинный</com>, <com type="abbrAux">соотв.</com> <pos>союзу</pos> <tg xml:lang="rus"> <t>а то, <com>наречиям</com> иначе, в противном случае</t> </tg> <xg type="mwe"> <x>Тудлан тидым ит ойло, ато ок тол.</x> <xt xml:lang="rus">Ему об этом не говори, иначе не придёт.</xt> </xg> <xg type="quote"> <x src="В. Орлов.">Кӧ уло, лекса, ато лӱем! – кычкыральым.</x> <xt xml:lang="rus">Я крикнул: – Кто там, выходите, а то застрелю!</xt> </xg></mg></e>
-<e><lg><l pos="CC">ден</l><stg><st>ден</st></stg><stress>ден</stress></lg><mg><pos>союз</pos> <com type="abbrAux">соотв.</com> <com>соединительному союзу</com> € <tg xml:lang="rus"> <t>и</t> </tg> <xg type="mwe"> <x>ача ден ава</x> <xt xml:lang="rus">отец и мать</xt> </xg> <xg type="mwe"> <x>партий ден виктер</x> <xt xml:lang="rus">партия и правительство</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Йогор ден самырык марий Григорий Петровичым больницыш наҥгайышт.</x> <xt xml:lang="rus">Йогор и молодой мариец увезли Григория Петровича в больницу.</xt> </xg></mg></e>
-<e><lg><l pos="CC">ито</l><stg><st>ито•</st></stg><stress>ито•</stress></lg><mg><pos>союз</pos> <com type="abbrAux">соотв.</com> <posType>присоед.</posType> <pos>союзу</pos> <tg xml:lang="rus"> <t>и то</t> </tg> <xg type="quote"> <x src="Я. Ялкайн.">– Тудо (Эбат) титакан мо, шке кумылын (фронтыш) каяш тӧчыш, ито ышт нал.</x> <xt xml:lang="rus">– Эбат разве виноват, он хотел идти на фронт добровольно, и то не взяли.</xt> </xg></mg></e>
-<e><lg><l pos="CC">сандене</l><stg><st>санде•не</st></stg><stress>санде•не</stress></lg><mg><pos>союз</pos> <tg xml:lang="rus"> <t>поэтому</t> <t>потому</t> <t>оттого</t> </tg> <xg type="quote"> <x src="Г. Чемеков.">Пуч мланде йымач кая, сандене канавым кӱнчыде ок лий.</x> <xt xml:lang="rus">Труба проходит под землёй, поэтому надо выкопать канаву.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Таче кугарнят огыл, рушарнят огыл, сандене Чужган кугызан аҥаштыже ныл еҥ веле пӧрдеш.</x> <xt xml:lang="rus">Сегодня не пятница и не воскресенье, поэтому на поле у старика Чужгана работает только четыре человека.</xt> </xg></mg></e>
-<e><lg><l pos="CC">только</l><stg><st>то•лько</st></stg><stress>то•лько</stress></lg><mg><com type="range">разг.</com><pos>союз</pos><tg type="head" xml:lang="rus"><t><posType>противит.</posType> только, но, однако</t> </tg> <xg type="quote"> <x src="Н. Лекайн.">– Павло, мый тыланет серышым возаш тӱҥалам. Только адресетым ом шинче.</x> <xt xml:lang="rus">– Павло, я тебе письма буду писать. Только адреса твоего не знаю.</xt> </xg><semRel type="compare_to">но</semRel> </mg><mg><tg type="head" xml:lang="rus"><t><posType>огранич.част.</posType> только, лишь; ничего другого, кроме <argg>чего-либо</argg></t> </tg> <xg type="quote"> <x src="С. Чавайн.">Панкрат Иваныч только иктым йодеш: тудо мия гын, Япар ден йолташыже-влак логарыштым ынышт чамане, чот кычкырышт.</x> <xt xml:lang="rus">Панкрат Иваныч просит только одного: если он придёт, то пусть Япар с товарищами не жалеют глотки, пусть громко кричат.</xt> </xg><semRel type="see_also">лач</semRel><semRel type="see_also">веле</semRel><semRel type="see_also">гына</semRel></mg></e>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+  <e>
+   <lg>
+     <l pos="CC">а</l>
+     <stg>
+       <st>а</st>
+     </stg><stress>а</stress>
+   </lg>
+   <mg><pos>союз</pos>
+     <tg type="head" xml:lang="rus">
+       <t>а <com type="abbrAux">соотв.</com>:</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><posType>противит.</posType> <pos>союзу</pos> а</t>
+     </tg>
+     <xg type="quote">
+       <x src="О. Ипай.">Чевер кечат тура онча мемнам, а тый илет шкетын.</x>
+       <xt xml:lang="rus">И красное солнышко прямо смотрит на нас, а ты живёшь один.</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><posType>присоед.</posType> <pos>союзу</pos> а</t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Эрыкан.">Адакшым Иванын кугу илыш опытшо уло, тудо калыкым ӱшандарен мошта, а тыгай еҥым колышташ утларак тӱҥалыт.</x>
+       <xt xml:lang="rus">Опять же у Ивана большой жизненный опыт, он умеет убеждать народ, а такого человека будут больше слушаться.</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t descript="употребляется в начале предложения для усиления выразительности"/>
+     </tg>
+     <xg type="quote">
+       <x src="М. Казаков.">А теве покшелне коеш курыкат.</x>
+       <xt xml:lang="rus">А вот и гора виднеется в середине.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">А баян кушто?</x>
+       <xt xml:lang="rus">А где баян?</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="CC">ато</l>
+     <stg>
+       <st>ато•</st>
+     </stg><stress>ато•</stress>
+   </lg>
+   <mg><com>союз причинный</com>, <com type="abbrAux">соотв.</com> <pos>союзу</pos>
+     <tg xml:lang="rus">
+       <t>а то, <com>наречиям</com> иначе, в противном случае</t>
+     </tg>
+     <xg type="mwe">
+       <x>Тудлан тидым ит ойло, ато ок тол.</x>
+       <xt xml:lang="rus">Ему об этом не говори, иначе не придёт.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Орлов.">Кӧ уло, лекса, ато лӱем! – кычкыральым.</x>
+       <xt xml:lang="rus">Я крикнул: – Кто там, выходите, а то застрелю!</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="CC">ден</l>
+     <stg>
+       <st>ден</st>
+     </stg><stress>ден</stress>
+   </lg>
+   <mg><pos>союз</pos> <com type="abbrAux">соотв.</com> <com>соединительному союзу</com> €
+     <tg xml:lang="rus">
+       <t>и</t>
+     </tg>
+     <xg type="mwe">
+       <x>ача ден ава</x>
+       <xt xml:lang="rus">отец и мать</xt>
+     </xg>
+     <xg type="mwe">
+       <x>партий ден виктер</x>
+       <xt xml:lang="rus">партия и правительство</xt>
+     </xg>
+     <xg type="quote">
+       <x src="С. Чавайн.">Йогор ден самырык марий Григорий Петровичым больницыш наҥгайышт.</x>
+       <xt xml:lang="rus">Йогор и молодой мариец увезли Григория Петровича в больницу.</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="CC">ито</l>
+     <stg>
+       <st>ито•</st>
+     </stg><stress>ито•</stress>
+   </lg>
+   <mg><pos>союз</pos> <com type="abbrAux">соотв.</com> <posType>присоед.</posType> <pos>союзу</pos>
+     <tg xml:lang="rus">
+       <t>и то</t>
+     </tg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">– Тудо (Эбат) титакан мо, шке кумылын (фронтыш) каяш тӧчыш, ито ышт нал.</x>
+       <xt xml:lang="rus">– Эбат разве виноват, он хотел идти на фронт добровольно, и то не взяли.</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="CC">сандене</l>
+     <stg>
+       <st>санде•не</st>
+     </stg><stress>санде•не</stress>
+   </lg>
+   <mg><pos>союз</pos>
+     <tg xml:lang="rus">
+       <t>поэтому</t>
+       <t>потому</t>
+       <t>оттого</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Пуч мланде йымач кая, сандене канавым кӱнчыде ок лий.</x>
+       <xt xml:lang="rus">Труба проходит под землёй, поэтому надо выкопать канаву.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="С. Чавайн.">Таче кугарнят огыл, рушарнят огыл, сандене Чужган кугызан аҥаштыже ныл еҥ веле пӧрдеш.</x>
+       <xt xml:lang="rus">Сегодня не пятница и не воскресенье, поэтому на поле у старика Чужгана работает только четыре человека.</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="CC">только</l>
+     <stg>
+       <st>то•лько</st>
+     </stg><stress>то•лько</stress>
+   </lg>
+   <mg><com type="range">разг.</com><pos>союз</pos>
+     <tg type="head" xml:lang="rus">
+       <t><posType>противит.</posType> только, но, однако</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">– Павло, мый тыланет серышым возаш тӱҥалам. Только адресетым ом шинче.</x>
+       <xt xml:lang="rus">– Павло, я тебе письма буду писать. Только адреса твоего не знаю.</xt>
+     </xg>
+       <semRel type="compare_to">но</semRel>
+   </mg>
+   <mg>
+     <tg type="head" xml:lang="rus">
+       <t><posType>огранич.част.</posType> только, лишь; ничего другого, кроме
+     <argg>чего-либо</argg></t>
+     </tg>
+     <xg type="quote">
+       <x src="С. Чавайн.">Панкрат Иваныч только иктым йодеш: тудо мия гын, Япар ден йолташыже-влак логарыштым ынышт чамане, чот кычкырышт.</x>
+       <xt xml:lang="rus">Панкрат Иваныч просит только одного: если он придёт, то пусть Япар с товарищами не жалеют глотки, пусть громко кричат.</xt>
+     </xg>
+       <semRel type="see_also">лач</semRel>
+       <semRel type="see_also">веле</semRel>
+       <semRel type="see_also">гына</semRel>
+   </mg>
+</e>
 </r>
