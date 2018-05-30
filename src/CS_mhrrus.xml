@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e><lg><l hid="Hom2" pos="CS">вет</l><stg><st>вет</st></stg><stress>вет</stress></lg><mg> <com>союз соответствует причинному союзу</com> € <tg xml:lang="rus"> <t>ведь</t> </tg> <xg type="quote"> <x src="Н. Лекайн.">Тудым (азам) сайын ончыман, вет тудо ончыкылык тукым.</x> <xt xml:lang="rus">За ребёнком надо хорошо ухаживать, ведь он – будущее поколение.</xt> </xg></mg></e>
+<e><lg><l hid="Hom3" pos="CS">как</l><stg><st>как</st></stg><stress>как</stress></lg><mg> <pos>союз</pos><tg type="head" xml:lang="rus"><t><com type="range">разг.</com> как только, лишь только</t> </tg> <xg type="quote"> <x src="Н. Лекайн.">Как немыч-влак ялыш толын пурат, вигак тудо илемыш чымалтса.</x> <xt xml:lang="rus">Как только немцы прибудут в деревню, сразу же убегайте в ту деревню.</xt> </xg></mg></e>
   <e>
    <lg>
      <l pos="CS">потомушто</l>
