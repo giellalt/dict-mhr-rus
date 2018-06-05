@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
-<e><lg><l hid="Hom1" pos="Num">кум</l><stg><st>ку•м</st></stg><stress>ку•м</stress></lg><mg> <tg xml:lang="rus"> <t>три</t> </tg> <xg type="mwe"> <x>Кум сутка</x> <xt xml:lang="rus">трое суток</xt> </xg> <xg type="mwe"> <x>кум ӱстел</x> <xt xml:lang="rus">три стола</xt> </xg> <xg type="mwe"> <x>кум ияш</x> <xt xml:lang="rus">трёхлетний</xt> </xg> <xg type="mwe"> <x>кум тылзаш</x> <xt xml:lang="rus">трёхмесячный</xt> </xg> <xg type="mwe"> <x>кум пачаш</x> <xt xml:lang="rus">втрое, три раза</xt> </xg> <xg type="mwe"> <x>кум тӱрлӧ</x> <xt xml:lang="rus">троякий.</xt> </xg> <xg type="quote"> <x src="М. Рыбаков.">Станций марте иктаж кум километр кодын.</x> <xt xml:lang="rus">До станции осталось около трёх километров.</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Кум шагат жапыште Мичуш ятыр пареҥгым лукто.</x> <xt xml:lang="rus">Мичуш в течение трёх часов выкопал много картошки.</xt> </xg></mg></e>
-<e><lg><l hid="Hom2" pos="Num">лу</l><stg><st>лу</st></stg><stress>лу</stress></lg><mg> <pos>числ.</pos> <tg xml:lang="rus"> <t>десять; число и количество 10</t> </tg> <xg type="mwe"> <x>Лу еҥ</x> <xt xml:lang="rus">десять человек</xt> </xg> <xg type="mwe"> <x>лу пачаш</x> <xt xml:lang="rus">в десять раз</xt> </xg> <xg type="mwe"> <x>лу ияш</x> <xt xml:lang="rus">десятилетний</xt> </xg> <xg type="mwe"> <x>лу пырче</x> <xt xml:lang="rus">десять экземпляров.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Григорий Петрович, лу теҥгем луктын, Левентей кугыза ончылан пыштыш.</x> <xt xml:lang="rus">Достав десять рублей, Григорий Петрович положил перед стариком Левентеем.</xt> </xg> <xg type="quote"> <x src="А. Эрыкан.">Лу ий ожно заводын пашаже тӱҥалын веле ыле.</x> <xt xml:lang="rus">Десять лет тому назад завод только начинал работу.</xt> </xg></mg></e>
+  <e>
+    <lg>
+      <l pos="Num">ала-мыняре</l>
+      <stg>
+        <st>ала-мыня•р(е)</st>
+      </stg>
+      <stress>ала-мыня•р(е)</stress>
+    </lg>
+    <mg><pos>числ.</pos> <posType>неопр.</posType><tg type="head" xml:lang="rus"><t>несколько</t> <t>сколько-то</t> <t>неизвестно сколько</t> </tg> <xg type="quote"> <x src="С. Чавайн.">Почешыже ала-мыняр пычал поче-поче пудеште, ик пуля Сакарын пылыш воктенжак шӱшкалтен каен колтыш.</x> <xt xml:lang="rus">Вслед ему грохнуло несколько выстрелов из ружья, одна пуля просвистела прямо мимо ушей Сакара.</xt> </xg> <xg type="quote"> <x src="В. Иванов.">Но ушен шым керт, ала-мыняр сантиметр кабель ыш сите.</x> <xt xml:lang="rus">Но соединить не смог, не хватило сколько-то сантиметров кабеля.</xt> </xg> </mg>
+    <mg><tg type="head" xml:lang="rus"><t>не очень-то</t> <t>не ахти как</t> </tg> <xg type="quote"> <x src="О. Тыныш.">Погына ожнысо деч ала-мыняр кугунак ешаралтын огыл.</x> <xt xml:lang="rus">Добра нашего по сравнению с тем, что было, прибавилось не очень-то много.</xt> </xg> <xg type="quote"> <x src="А. Эрыкан.">Ала-мынярак сайын илаш ок тӱҥал гынат, ача-авалан ӧпкелаш ок лий.</x> <xt xml:lang="rus">Он будет жить не ахти как хорошо, но нельзя обижаться на родителей.</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">амион</l>
@@ -37,6 +46,26 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">витле</l>
+      <stg>
+        <st>ви•тле</st>
+      </stg>
+      <stress>ви•тле</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>пятьдесят</t> </tg> <xg type="quote"> <x src="Н. Арбан.">Олаште чыла кевытыш пурен коштын, но витле теҥгеаш скрипкым муын огыл.</x> <xt xml:lang="rus">В городе заходил во все магазины, но скрипку за пятьдесят рублей не нашёл.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">витлымше</l>
+      <stg>
+        <st>ви•тлымше</st>
+      </stg>
+      <stress>ви•тлымше</stress>
+    </lg>
+    <mg><pos>числ.</pos> <tg xml:lang="rus"> <t>пятидесятый</t> </tg> <xg type="quote"> <x src="М. Сергеев.">Витлымше ийлаште пеледышан аллей, пушеҥган сквер, асфальт уке ыле.</x> <xt xml:lang="rus">В пятидесятых годах не было аллеи со цветами, сквера с деревьями, асфальта.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">вич</l>
      <stg>
@@ -54,6 +83,12 @@
        <semRel type="see_also">визыт</semRel>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l pos="Num">икте</l>
+    </lg>
+    <mg> [ex]Смотри:[/ex] <compg><comp ord="E1">иктыт</comp><comp ord="E2"/></compg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">иктыт</l>
@@ -182,6 +217,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">индешле</l>
+      <stg>
+        <st>инде•шле</st>
+      </stg>
+      <stress>инде•шле</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>девяносто; число и количество 90</t> </tg> <xg type="mwe"> <x>Индешле ияш</x> <xt xml:lang="rus">девяностолетний</xt> </xg> <xg type="mwe"> <x>индешле теҥге</x> <xt xml:lang="rus">девяносто рублей</xt> </xg> <xg type="mwe"> <x>индешле визыт</x> <xt xml:lang="rus">девяносто пять.</xt> </xg> <xg type="quote"> <x src="М. Шкетан.">Кооперативыште кудло еҥ гыч индешлыш шуо.</x> <xt xml:lang="rus">В кооперативе из шестидесяти стало девяносто человек.</xt> </xg> <xg type="quote"> <x src="К. Васин.">Индешле ияш кугызан кидше чытыраш тӱҥале.</x> <xt xml:lang="rus">У девяностолетнего старика задрожали руки.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">кандаш</l>
    </lg>
@@ -190,6 +235,42 @@
        <comp ord="E2"/></compg>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l pos="Num">кандаше</l>
+      <stg>
+        <st>канда•ш(е)</st>
+      </stg>
+      <stress>канда•ш(е)</stress>
+    </lg>
+    <mg><pos>числ.</pos> <posType>колич.</posType> € <tg xml:lang="rus"> <t>восемь</t> </tg> <xg type="mwe"> <x>Кандаш еҥ</x> <xt xml:lang="rus">восемь человек</xt> </xg> <xg type="mwe"> <x>кандаш окнан пӧрт</x> <xt xml:lang="rus">дом в восемь окон</xt> </xg> <xg type="mwe"> <x>кандашым ушаш</x> <xt xml:lang="rus">прибавить восемь.</xt> </xg> <xg type="quote"> <x src="К. Васин.">Кырлалан кандаш ий теме.</x> <xt xml:lang="rus">Кырле исполнилось восемь лет.</xt> </xg> <xg type="quote"> <x src="А. Волков.">(Йӱк:) Кастене кандаш шагатлан клубыш мийыза. Погынымаш лиеш.</x> <xt xml:lang="rus">(Голос:) Приходите в восемь часов вечера в клуб. Будет собрание.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">кандашле</l>
+      <stg>
+        <st>канда•шле</st>
+      </stg>
+      <stress>канда•шле</stress>
+    </lg>
+    <mg><pos>числ.</pos> <posType>колич.</posType> € <tg xml:lang="rus"> <t>восемьдесят</t> </tg> <xg type="mwe"> <x>Кандашле теҥге</x> <xt xml:lang="rus">восемьдесят рублей.</xt> </xg> <xg type="quote"> <x src="В. Иванов.">Кандашле километрым йолын топкенам, йыдалемат корнеш шаланен.</x> <xt xml:lang="rus">Восемьдесят километров я шагал пешком, по дороге и лапти развалились.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">кандашлымше</l>
+      <stg>
+        <st>канда•шлымше</st>
+      </stg>
+      <stress>канда•шлымше</stress>
+    </lg>
+    <mg><pos>числ.</pos> <posType>порядк.</posType> € <tg xml:lang="rus"> <t>восьмидесятый</t> </tg> <xg type="mwe"> <x>Кандашлымше ийлаште</x> <xt xml:lang="rus">в восьмидесятых годах.</xt> </xg> <xg type="mwe"> <x>Черетыште кандашлымше улам ыле.</x> <xt xml:lang="rus">Был в очереди восьмидесятым.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">кок</l>
+    </lg>
+    <mg>  <com type="abbrAux">сокр.</com> <compg><comp ord="E1">кокыт</comp><comp ord="E2"/></compg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">кокыт</l>
@@ -244,6 +325,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">коло</l>
+      <stg>
+        <st>ко•ло</st>
+      </stg>
+      <stress>ко•ло</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>двадцать</t> </tg> <xg type="mwe"> <x>Коло меҥге</x> <xt xml:lang="rus">двадцать километров</xt> </xg> <xg type="mwe"> <x>коло ий</x> <xt xml:lang="rus">двадцать лет</xt> </xg> <xg type="mwe"> <x>коло ияш</x> <xt xml:lang="rus">двадцатилетний.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Олмапу коклаште иктаж коло мӱкш омарта коеш.</x> <xt xml:lang="rus">Между яблонями видны около двадцати ульев.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">куд</l>
      <stg>
@@ -280,6 +371,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">кудло</l>
+      <stg>
+        <st>ку•дло</st>
+      </stg>
+      <stress>ку•дло</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>шестьдесят</t> <t>число и количество шестьдесят</t> </tg> <xg type="mwe"> <x>Кудло теҥге</x> <xt xml:lang="rus">шестьдесят рублей</xt> </xg> <xg type="mwe"> <x>кудло меҥге</x> <xt xml:lang="rus">утла более шестидесяти километров</xt> </xg> <xg type="mwe"> <x>кудло пӧртан ял</x> <xt xml:lang="rus">деревня в шестьдесят дворов.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">кудыт</l>
      <stg>
@@ -312,6 +413,26 @@
      </xg>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l hid="Hom1" pos="Num">кум</l>
+      <stg>
+        <st>ку•м</st>
+      </stg>
+      <stress>ку•м</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>три</t> </tg> <xg type="mwe"> <x>Кум сутка</x> <xt xml:lang="rus">трое суток</xt> </xg> <xg type="mwe"> <x>кум ӱстел</x> <xt xml:lang="rus">три стола</xt> </xg> <xg type="mwe"> <x>кум ияш</x> <xt xml:lang="rus">трёхлетний</xt> </xg> <xg type="mwe"> <x>кум тылзаш</x> <xt xml:lang="rus">трёхмесячный</xt> </xg> <xg type="mwe"> <x>кум пачаш</x> <xt xml:lang="rus">втрое, три раза</xt> </xg> <xg type="mwe"> <x>кум тӱрлӧ</x> <xt xml:lang="rus">троякий.</xt> </xg> <xg type="quote"> <x src="М. Рыбаков.">Станций марте иктаж кум километр кодын.</x> <xt xml:lang="rus">До станции осталось около трёх километров.</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Кум шагат жапыште Мичуш ятыр пареҥгым лукто.</x> <xt xml:lang="rus">Мичуш в течение трёх часов выкопал много картошки.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">кумло</l>
+      <stg>
+        <st>ку•мло</st>
+      </stg>
+      <stress>ку•мло</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>тридцать</t> </tg> <xg type="mwe"> <x>Кумло еҥ</x> <xt xml:lang="rus">тридцать человек</xt> </xg> <xg type="mwe"> <x>кумло сурт</x> <xt xml:lang="rus">тридцать дворов.</xt> </xg> <xg type="quote"> <x src="«Ончыко»">Чевер чурийжым ончетат, тудлан (Токтаревлан) кумло ийымат от пу.</x> <xt xml:lang="rus">Глядя на румяное лицо Токтарева, не дашь ему и тридцати лет.</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">кумыт</l>
@@ -393,6 +514,16 @@
        <comp ord="E2"/></compg>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l pos="Num">латикте</l>
+      <stg>
+        <st>лати•к(те)</st>
+      </stg>
+      <stress>лати•к(те)</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>одиннадцать (число и количество)</t> </tg> <xg type="mwe"> <x>Латик еҥ</x> <xt xml:lang="rus">одиннадцать человек.</xt> </xg> <xg type="quote"> <x src="М. Шкетан.">Икымше лум вочмек, Сеню, мыйын латик ияш эргым, мый дечем йычыгаш тӱҥале: «Ачай, мыланем ече кӱлеш!»</x> <xt xml:lang="rus">Как только выпал первый снег, мой одиннадцатилетний сын Сеню начал меня донимать: «Папа, мне лыжи нужны».</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">латиндеш</l>
@@ -532,6 +663,12 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">латшым</l>
+    </lg>
+    <mg> <com type="abbrAux">сокр.</com> <compg><comp ord="E1">латшымыт</comp><comp ord="E2"/></compg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">латшымыт</l>
      <stg>
@@ -556,6 +693,26 @@
      </xg>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l hid="Hom2" pos="Num">лу</l>
+      <stg>
+        <st>лу</st>
+      </stg>
+      <stress>лу</stress>
+    </lg>
+    <mg> <pos>числ.</pos> <tg xml:lang="rus"> <t>десять; число и количество 10</t> </tg> <xg type="mwe"> <x>Лу еҥ</x> <xt xml:lang="rus">десять человек</xt> </xg> <xg type="mwe"> <x>лу пачаш</x> <xt xml:lang="rus">в десять раз</xt> </xg> <xg type="mwe"> <x>лу ияш</x> <xt xml:lang="rus">десятилетний</xt> </xg> <xg type="mwe"> <x>лу пырче</x> <xt xml:lang="rus">десять экземпляров.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Григорий Петрович, лу теҥгем луктын, Левентей кугыза ончылан пыштыш.</x> <xt xml:lang="rus">Достав десять рублей, Григорий Петрович положил перед стариком Левентеем.</xt> </xg> <xg type="quote"> <x src="А. Эрыкан.">Лу ий ожно заводын пашаже тӱҥалын веле ыле.</x> <xt xml:lang="rus">Десять лет тому назад завод только начинал работу.</xt> </xg></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">лучко</l>
+      <stg>
+        <st>лу•чко</st>
+      </stg>
+      <stress>лу•чко</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>пятнадцать</t> </tg> <xg type="mwe"> <x>Лучко ияш</x> <xt xml:lang="rus">пятнадцатилетний</xt> </xg> <xg type="mwe"> <x>лучко ыр</x> <xt xml:lang="rus">пятнадцать копеек</xt> </xg> <xg type="mwe"> <x>лучко гана</x> <xt xml:lang="rus">пятнадцать раз.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Пазарыште изирак чомам вич теҥгеланат налаш лиеш, а Сакар чомалан лучко теҥгем пуэн.</x> <xt xml:lang="rus">На базаре жеребёнка чуть поменьше можно купить и за пять рублей, а Сакар отдал за жеребёнка пятнадцать рублей.</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">миллиард</l>
@@ -615,6 +772,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">миллионымшо</l>
+      <stg>
+        <st>миллио•нымшо</st>
+      </stg>
+      <stress>миллио•нымшо</stress>
+    </lg>
+    <mg><pos>числ.</pos> <posType>порядк.</posType> € <tg xml:lang="rus"> <t>миллионный</t> </tg> <xg type="quote"> <x src="«Мар. ком.»">Предприятийын пашачыже-влак 50 миллионымшо тонн вурсым левыктеныт.</x> <xt xml:lang="rus">Труженики предприятия выплавили пятидесятимиллионную тонну стали.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">ныл</l>
    </lg>
@@ -623,6 +790,17 @@
        <comp ord="E2"/></compg>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l pos="Num">нылле</l>
+      <stg>
+        <st>ны•лле</st>
+      </stg>
+      <stress>ны•лле</stress>
+    </lg>
+    <mg><tg type="head" xml:lang="rus"><t>сорок</t> </tg> <xg type="mwe"> <x>Нылле кече</x> <xt xml:lang="rus">сорок дней</xt> </xg> <xg type="mwe"> <x>нылле теҥге</x> <xt xml:lang="rus">сорок рублей.</xt> </xg> <xg type="quote"> <x src="М. Евсеева.">Тӱжвач ончен, когылянышт нылле ий деч кугу ийготым пуаш ок лий.</x> <xt xml:lang="rus">По внешнему виду им обоим нельзя дать больше сорока лет.</xt> </xg> <xg type="quote"> <x src="С. Вишневский.">Южгунам походыш лектына, нылле меҥгым йӱдым эртена.</x> <xt xml:lang="rus">Иногда выходим в поход, за ночь проходим по сорок километров.</xt> </xg> </mg>
+    <mg><tg type="head" xml:lang="rus"><t>поминки (сороковой день после смерти)</t> </tg> <xg type="quote"> <x src="Г. Ефруш.">Изамын ватыжын шольыжо колен. Таче ныллыже.</x> <xt xml:lang="rus">Умер младший брат жены моего старшего брата. Сегодня поминки.</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">нылыт</l>
@@ -675,6 +853,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">тӱжем</l>
+      <stg>
+        <st>тӱже•м</st>
+      </stg>
+      <stress>тӱже•м</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>тысяча</t> </tg> <xg type="mwe"> <x>Тӱжем теҥге</x> <xt xml:lang="rus">тысяча рублей</xt> </xg> <xg type="mwe"> <x>тӱжем меҥге</x> <xt xml:lang="rus">тысяча вёрст.</xt> </xg> <xg type="quote"> <x src="В. Сапаев.">Нелытше кок шӱдӧ тонн але латкок тӱжем пуд!</x> <xt xml:lang="rus">Вес двести тонн или двенадцать тысяч пудов!</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Мыйын гай музыкант тӱняште тӱжем дене улыт.</x> <xt xml:lang="rus">Таких музыкантов, как я, на свете тысячи.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Num">тӱмен</l>
      <stg>
@@ -692,6 +880,26 @@
        <semRel type="see_also">миллион</semRel>
    </mg>
 </e>
+  <e>
+    <lg>
+      <l pos="Num">шишимыт</l>
+      <stg>
+        <st>шиши•м(ыт)</st>
+      </stg>
+      <stress>шиши•м(ыт)</stress>
+    </lg>
+    <mg><com type="range">диал.</com> <pos>числ.</pos> <tg xml:lang="rus"> <t>семь</t> </tg> <xg type="mwe"> <x>Шишим карандаш</x> <xt xml:lang="rus">семь карандашей</xt> </xg> <xg type="mwe"> <x>шишим имне</x> <xt xml:lang="rus">семь лошадей.</xt> </xg> <xg type="quote"> <x src="Муро.">Шишим коваштан кӱрыкым ургышым, тоҥедышге, леведышге ситыже ман.</x> <xt xml:lang="rus">Я сшил шубу из семи овчин, чтоб хватило на изголовье и укрыться.</xt> </xg> <xg type="quote"> <x src="Ӱпымарий.">Теҥгеак пелакаш пашмакем, шишим теҥгеаш кемем.</x> <xt xml:lang="rus">Мои башмаки стоят полтора рубля, сапоги – семь (рублей).</xt> </xg><semRel type="see_also">шым</semRel></mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">шымле</l>
+      <stg>
+        <st>шы•мле</st>
+      </stg>
+      <stress>шы•мле</stress>
+    </lg>
+    <mg><pos>числ.</pos> <tg xml:lang="rus"> <t>семьдесят</t> </tg> <xg type="quote"> <x src="М. Шкетан.">Шымле подкиндым кочкынам, манам, а икте, манам, спайлан кодын.</x> <xt xml:lang="rus">Я съел семьдесят варёных лепёшек, говорю, а одна, говорю, осталась для образца.</xt> </xg> <xg type="quote"> <x src="«Ончыко»">– Мый ынде тиде мландыште шымле ий илем.</x> <xt xml:lang="rus">– На этой земле я живу уже семьдесят лет.</xt> </xg></mg>
+  </e>
   <e>
    <lg>
      <l pos="Num">шымыт</l>
@@ -722,6 +930,16 @@
    </mg>
 </e>
   <e>
+    <lg>
+      <l pos="Num">шӱдӧ</l>
+      <stg>
+        <st>шӱ•дӧ</st>
+      </stg>
+      <stress>шӱ•дӧ</stress>
+    </lg>
+    <mg> <tg xml:lang="rus"> <t>сто</t> <t>сотня; число</t> <t>количество 100</t> </tg> <xg type="mwe"> <x>Шӱдӧ еҥ</x> <xt xml:lang="rus">сто человек</xt> </xg> <xg type="mwe"> <x>шӱдӧ марте шотлаш</x> <xt xml:lang="rus">считать до ста</xt> </xg> <xg type="mwe"> <x>шӱдӧ утла лияш</x> <xt xml:lang="rus">быть больше ста</xt> </xg> <xg type="mwe"> <x>шӱдӧ дене колаш</x> <xt xml:lang="rus">умирать сотнями.</xt> </xg> <xg type="quote"> <x src="Калыкмут.">Шӱдӧ теҥгет ынже лий, шӱдӧ таҥет лийже.</x> <xt xml:lang="rus">Не имей (<com type="abbrAux">букв.</com> пусть не будет) сто рублей, имей (<com type="abbrAux">букв.</com> пусть будет) сто друзей.</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Пӧрт воктен шӱдӧ ияш ладыра куэ шога.</x> <xt xml:lang="rus">Возле дома стоит столетняя раскидистая берёза.</xt> </xg></mg>
+  </e>
+  <e>
    <lg>
      <l pos="Qnt">кандашымше</l>
      <stg>
@@ -742,25 +960,4 @@
      </xg>
    </mg>
 </e>
-<e><lg><l pos="Num">ала-мыняре</l><stg><st>ала-мыня•р(е)</st></stg><stress>ала-мыня•р(е)</stress></lg><mg><pos>числ.</pos> <posType>неопр.</posType><tg type="head" xml:lang="rus"><t>несколько</t> <t>сколько-то</t> <t>неизвестно сколько</t> </tg> <xg type="quote"> <x src="С. Чавайн.">Почешыже ала-мыняр пычал поче-поче пудеште, ик пуля Сакарын пылыш воктенжак шӱшкалтен каен колтыш.</x> <xt xml:lang="rus">Вслед ему грохнуло несколько выстрелов из ружья, одна пуля просвистела прямо мимо ушей Сакара.</xt> </xg> <xg type="quote"> <x src="В. Иванов.">Но ушен шым керт, ала-мыняр сантиметр кабель ыш сите.</x> <xt xml:lang="rus">Но соединить не смог, не хватило сколько-то сантиметров кабеля.</xt> </xg> </mg><mg><tg type="head" xml:lang="rus"><t>не очень-то</t> <t>не ахти как</t> </tg> <xg type="quote"> <x src="О. Тыныш.">Погына ожнысо деч ала-мыняр кугунак ешаралтын огыл.</x> <xt xml:lang="rus">Добра нашего по сравнению с тем, что было, прибавилось не очень-то много.</xt> </xg> <xg type="quote"> <x src="А. Эрыкан.">Ала-мынярак сайын илаш ок тӱҥал гынат, ача-авалан ӧпкелаш ок лий.</x> <xt xml:lang="rus">Он будет жить не ахти как хорошо, но нельзя обижаться на родителей.</xt> </xg></mg></e>
-<e><lg><l pos="Num">витлымше</l><stg><st>ви•тлымше</st></stg><stress>ви•тлымше</stress></lg><mg><pos>числ.</pos> <tg xml:lang="rus"> <t>пятидесятый</t> </tg> <xg type="quote"> <x src="М. Сергеев.">Витлымше ийлаште пеледышан аллей, пушеҥган сквер, асфальт уке ыле.</x> <xt xml:lang="rus">В пятидесятых годах не было аллеи со цветами, сквера с деревьями, асфальта.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кандаше</l><stg><st>канда•ш(е)</st></stg><stress>канда•ш(е)</stress></lg><mg><pos>числ.</pos> <posType>колич.</posType> € <tg xml:lang="rus"> <t>восемь</t> </tg> <xg type="mwe"> <x>Кандаш еҥ</x> <xt xml:lang="rus">восемь человек</xt> </xg> <xg type="mwe"> <x>кандаш окнан пӧрт</x> <xt xml:lang="rus">дом в восемь окон</xt> </xg> <xg type="mwe"> <x>кандашым ушаш</x> <xt xml:lang="rus">прибавить восемь.</xt> </xg> <xg type="quote"> <x src="К. Васин.">Кырлалан кандаш ий теме.</x> <xt xml:lang="rus">Кырле исполнилось восемь лет.</xt> </xg> <xg type="quote"> <x src="А. Волков.">(Йӱк:) Кастене кандаш шагатлан клубыш мийыза. Погынымаш лиеш.</x> <xt xml:lang="rus">(Голос:) Приходите в восемь часов вечера в клуб. Будет собрание.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кандашле</l><stg><st>канда•шле</st></stg><stress>канда•шле</stress></lg><mg><pos>числ.</pos> <posType>колич.</posType> € <tg xml:lang="rus"> <t>восемьдесят</t> </tg> <xg type="mwe"> <x>Кандашле теҥге</x> <xt xml:lang="rus">восемьдесят рублей.</xt> </xg> <xg type="quote"> <x src="В. Иванов.">Кандашле километрым йолын топкенам, йыдалемат корнеш шаланен.</x> <xt xml:lang="rus">Восемьдесят километров я шагал пешком, по дороге и лапти развалились.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кандашлымше</l><stg><st>канда•шлымше</st></stg><stress>канда•шлымше</stress></lg><mg><pos>числ.</pos> <posType>порядк.</posType> € <tg xml:lang="rus"> <t>восьмидесятый</t> </tg> <xg type="mwe"> <x>Кандашлымше ийлаште</x> <xt xml:lang="rus">в восьмидесятых годах.</xt> </xg> <xg type="mwe"> <x>Черетыште кандашлымше улам ыле.</x> <xt xml:lang="rus">Был в очереди восьмидесятым.</xt> </xg></mg></e>
-<e><lg><l pos="Num">миллионымшо</l><stg><st>миллио•нымшо</st></stg><stress>миллио•нымшо</stress></lg><mg><pos>числ.</pos> <posType>порядк.</posType> € <tg xml:lang="rus"> <t>миллионный</t> </tg> <xg type="quote"> <x src="«Мар. ком.»">Предприятийын пашачыже-влак 50 миллионымшо тонн вурсым левыктеныт.</x> <xt xml:lang="rus">Труженики предприятия выплавили пятидесятимиллионную тонну стали.</xt> </xg></mg></e>
-<e><lg><l pos="Num">шишимыт</l><stg><st>шиши•м(ыт)</st></stg><stress>шиши•м(ыт)</stress></lg><mg><com type="range">диал.</com> <pos>числ.</pos> <tg xml:lang="rus"> <t>семь</t> </tg> <xg type="mwe"> <x>Шишим карандаш</x> <xt xml:lang="rus">семь карандашей</xt> </xg> <xg type="mwe"> <x>шишим имне</x> <xt xml:lang="rus">семь лошадей.</xt> </xg> <xg type="quote"> <x src="Муро.">Шишим коваштан кӱрыкым ургышым, тоҥедышге, леведышге ситыже ман.</x> <xt xml:lang="rus">Я сшил шубу из семи овчин, чтоб хватило на изголовье и укрыться.</xt> </xg> <xg type="quote"> <x src="Ӱпымарий.">Теҥгеак пелакаш пашмакем, шишим теҥгеаш кемем.</x> <xt xml:lang="rus">Мои башмаки стоят полтора рубля, сапоги – семь (рублей).</xt> </xg><semRel type="see_also">шым</semRel></mg></e>
-<e><lg><l pos="Num">шымле</l><stg><st>шы•мле</st></stg><stress>шы•мле</stress></lg><mg><pos>числ.</pos> <tg xml:lang="rus"> <t>семьдесят</t> </tg> <xg type="quote"> <x src="М. Шкетан.">Шымле подкиндым кочкынам, манам, а икте, манам, спайлан кодын.</x> <xt xml:lang="rus">Я съел семьдесят варёных лепёшек, говорю, а одна, говорю, осталась для образца.</xt> </xg> <xg type="quote"> <x src="«Ончыко»">– Мый ынде тиде мландыште шымле ий илем.</x> <xt xml:lang="rus">– На этой земле я живу уже семьдесят лет.</xt> </xg></mg></e>
-<e><lg><l pos="Num">витле</l><stg><st>ви•тле</st></stg><stress>ви•тле</stress></lg><mg> <tg xml:lang="rus"> <t>пятьдесят</t> </tg> <xg type="quote"> <x src="Н. Арбан.">Олаште чыла кевытыш пурен коштын, но витле теҥгеаш скрипкым муын огыл.</x> <xt xml:lang="rus">В городе заходил во все магазины, но скрипку за пятьдесят рублей не нашёл.</xt> </xg></mg></e>
-<e><lg><l pos="Num">икте</l></lg><mg> [ex]Смотри:[/ex] <compg><comp ord="E1">иктыт</comp><comp ord="E2"/></compg></mg></e>
-<e><lg><l pos="Num">индешле</l><stg><st>инде•шле</st></stg><stress>инде•шле</stress></lg><mg> <tg xml:lang="rus"> <t>девяносто; число и количество 90</t> </tg> <xg type="mwe"> <x>Индешле ияш</x> <xt xml:lang="rus">девяностолетний</xt> </xg> <xg type="mwe"> <x>индешле теҥге</x> <xt xml:lang="rus">девяносто рублей</xt> </xg> <xg type="mwe"> <x>индешле визыт</x> <xt xml:lang="rus">девяносто пять.</xt> </xg> <xg type="quote"> <x src="М. Шкетан.">Кооперативыште кудло еҥ гыч индешлыш шуо.</x> <xt xml:lang="rus">В кооперативе из шестидесяти стало девяносто человек.</xt> </xg> <xg type="quote"> <x src="К. Васин.">Индешле ияш кугызан кидше чытыраш тӱҥале.</x> <xt xml:lang="rus">У девяностолетнего старика задрожали руки.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кок</l></lg><mg>  <com type="abbrAux">сокр.</com> <compg><comp ord="E1">кокыт</comp><comp ord="E2"/></compg></mg></e>
-<e><lg><l pos="Num">коло</l><stg><st>ко•ло</st></stg><stress>ко•ло</stress></lg><mg> <tg xml:lang="rus"> <t>двадцать</t> </tg> <xg type="mwe"> <x>Коло меҥге</x> <xt xml:lang="rus">двадцать километров</xt> </xg> <xg type="mwe"> <x>коло ий</x> <xt xml:lang="rus">двадцать лет</xt> </xg> <xg type="mwe"> <x>коло ияш</x> <xt xml:lang="rus">двадцатилетний.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Олмапу коклаште иктаж коло мӱкш омарта коеш.</x> <xt xml:lang="rus">Между яблонями видны около двадцати ульев.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кудло</l><stg><st>ку•дло</st></stg><stress>ку•дло</stress></lg><mg> <tg xml:lang="rus"> <t>шестьдесят</t> <t>число и количество шестьдесят</t> </tg> <xg type="mwe"> <x>Кудло теҥге</x> <xt xml:lang="rus">шестьдесят рублей</xt> </xg> <xg type="mwe"> <x>кудло меҥге</x> <xt xml:lang="rus">утла более шестидесяти километров</xt> </xg> <xg type="mwe"> <x>кудло пӧртан ял</x> <xt xml:lang="rus">деревня в шестьдесят дворов.</xt> </xg></mg></e>
-<e><lg><l pos="Num">кумло</l><stg><st>ку•мло</st></stg><stress>ку•мло</stress></lg><mg> <tg xml:lang="rus"> <t>тридцать</t> </tg> <xg type="mwe"> <x>Кумло еҥ</x> <xt xml:lang="rus">тридцать человек</xt> </xg> <xg type="mwe"> <x>кумло сурт</x> <xt xml:lang="rus">тридцать дворов.</xt> </xg> <xg type="quote"> <x src="«Ончыко»">Чевер чурийжым ончетат, тудлан (Токтаревлан) кумло ийымат от пу.</x> <xt xml:lang="rus">Глядя на румяное лицо Токтарева, не дашь ему и тридцати лет.</xt> </xg></mg></e>
-<e><lg><l pos="Num">латикте</l><stg><st>лати•к(те)</st></stg><stress>лати•к(те)</stress></lg><mg> <tg xml:lang="rus"> <t>одиннадцать (число и количество)</t> </tg> <xg type="mwe"> <x>Латик еҥ</x> <xt xml:lang="rus">одиннадцать человек.</xt> </xg> <xg type="quote"> <x src="М. Шкетан.">Икымше лум вочмек, Сеню, мыйын латик ияш эргым, мый дечем йычыгаш тӱҥале: «Ачай, мыланем ече кӱлеш!»</x> <xt xml:lang="rus">Как только выпал первый снег, мой одиннадцатилетний сын Сеню начал меня донимать: «Папа, мне лыжи нужны».</xt> </xg></mg></e>
-<e><lg><l pos="Num">латшым</l></lg><mg> <com type="abbrAux">сокр.</com> <compg><comp ord="E1">латшымыт</comp><comp ord="E2"/></compg></mg></e>
-<e><lg><l pos="Num">лучко</l><stg><st>лу•чко</st></stg><stress>лу•чко</stress></lg><mg> <tg xml:lang="rus"> <t>пятнадцать</t> </tg> <xg type="mwe"> <x>Лучко ияш</x> <xt xml:lang="rus">пятнадцатилетний</xt> </xg> <xg type="mwe"> <x>лучко ыр</x> <xt xml:lang="rus">пятнадцать копеек</xt> </xg> <xg type="mwe"> <x>лучко гана</x> <xt xml:lang="rus">пятнадцать раз.</xt> </xg> <xg type="quote"> <x src="С. Чавайн.">Пазарыште изирак чомам вич теҥгеланат налаш лиеш, а Сакар чомалан лучко теҥгем пуэн.</x> <xt xml:lang="rus">На базаре жеребёнка чуть поменьше можно купить и за пять рублей, а Сакар отдал за жеребёнка пятнадцать рублей.</xt> </xg></mg></e>
-<e><lg><l pos="Num">нылле</l><stg><st>ны•лле</st></stg><stress>ны•лле</stress></lg><mg><tg type="head" xml:lang="rus"><t>сорок</t> </tg> <xg type="mwe"> <x>Нылле кече</x> <xt xml:lang="rus">сорок дней</xt> </xg> <xg type="mwe"> <x>нылле теҥге</x> <xt xml:lang="rus">сорок рублей.</xt> </xg> <xg type="quote"> <x src="М. Евсеева.">Тӱжвач ончен, когылянышт нылле ий деч кугу ийготым пуаш ок лий.</x> <xt xml:lang="rus">По внешнему виду им обоим нельзя дать больше сорока лет.</xt> </xg> <xg type="quote"> <x src="С. Вишневский.">Южгунам походыш лектына, нылле меҥгым йӱдым эртена.</x> <xt xml:lang="rus">Иногда выходим в поход, за ночь проходим по сорок километров.</xt> </xg> </mg><mg><tg type="head" xml:lang="rus"><t>поминки (сороковой день после смерти)</t> </tg> <xg type="quote"> <x src="Г. Ефруш.">Изамын ватыжын шольыжо колен. Таче ныллыже.</x> <xt xml:lang="rus">Умер младший брат жены моего старшего брата. Сегодня поминки.</xt> </xg></mg></e>
-<e><lg><l pos="Num">тӱжем</l><stg><st>тӱже•м</st></stg><stress>тӱже•м</stress></lg><mg> <tg xml:lang="rus"> <t>тысяча</t> </tg> <xg type="mwe"> <x>Тӱжем теҥге</x> <xt xml:lang="rus">тысяча рублей</xt> </xg> <xg type="mwe"> <x>тӱжем меҥге</x> <xt xml:lang="rus">тысяча вёрст.</xt> </xg> <xg type="quote"> <x src="В. Сапаев.">Нелытше кок шӱдӧ тонн але латкок тӱжем пуд!</x> <xt xml:lang="rus">Вес двести тонн или двенадцать тысяч пудов!</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Мыйын гай музыкант тӱняште тӱжем дене улыт.</x> <xt xml:lang="rus">Таких музыкантов, как я, на свете тысячи.</xt> </xg></mg></e>
-<e><lg><l pos="Num">шӱдӧ</l><stg><st>шӱ•дӧ</st></stg><stress>шӱ•дӧ</stress></lg><mg> <tg xml:lang="rus"> <t>сто</t> <t>сотня; число</t> <t>количество 100</t> </tg> <xg type="mwe"> <x>Шӱдӧ еҥ</x> <xt xml:lang="rus">сто человек</xt> </xg> <xg type="mwe"> <x>шӱдӧ марте шотлаш</x> <xt xml:lang="rus">считать до ста</xt> </xg> <xg type="mwe"> <x>шӱдӧ утла лияш</x> <xt xml:lang="rus">быть больше ста</xt> </xg> <xg type="mwe"> <x>шӱдӧ дене колаш</x> <xt xml:lang="rus">умирать сотнями.</xt> </xg> <xg type="quote"> <x src="Калыкмут.">Шӱдӧ теҥгет ынже лий, шӱдӧ таҥет лийже.</x> <xt xml:lang="rus">Не имей (<com type="abbrAux">букв.</com> пусть не будет) сто рублей, имей (<com type="abbrAux">букв.</com> пусть будет) сто друзей.</xt> </xg> <xg type="quote"> <x src="Н. Арбан.">Пӧрт воктен шӱдӧ ияш ладыра куэ шога.</x> <xt xml:lang="rus">Возле дома стоит столетняя раскидистая берёза.</xt> </xg></mg></e>
 </r>
